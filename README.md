@@ -25,9 +25,7 @@ This project uses NDVI (Normalized Difference Vegetation Index) to analyze veget
 ## 📈 Sample NDVI Report
 
   <img width="1184" height="407" alt="image" src="https://github.com/user-attachments/assets/af25df58-2a91-4327-9aca-19982171e967" />
-  <img width="1184" height="407" alt="image" src="https://github.com/user-attachments/assets/dcdd3d47-9d7c-441d-b43a-2b102689f12f" />
-  <img width="1184" height="407" alt="image" src="https://github.com/user-attachments/assets/c0470ed0-d480-460a-a0fe-a3ba0684af88" />
-  <img width="1184" height="407" alt="image" src="https://github.com/user-attachments/assets/ca38cb96-9472-4ad5-93d3-dd7d2d9dce08" />
+  
  Image Class : AnnualCrop
  Healthy Area % : 0.0% (NDVI > 0.4)
  NDVI Range : -0.12 to 0.25
